@@ -6,3 +6,6 @@ pillow
 tensorflow-serving-api
 matplotlib
 numpy
+streamlit
+python -m streamlit run main.py
+
